@@ -1,0 +1,12 @@
+All I want is to be a best singer that every lived.
+
+Test 2
+One Two Three 2
+#include <iostream.h>
+
+main()
+{
+    for(;;)
+    {
+        cout << "Hello World!  count money";
+    }} 
